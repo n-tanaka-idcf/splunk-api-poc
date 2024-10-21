@@ -1,0 +1,12 @@
+# Prod
+-r requirements.txt
+
+# Dev
+ipython
+black
+mypy
+ruff
+pytest
+pytest-cov
+poethepoet
+types-requests
